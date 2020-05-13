@@ -27,13 +27,13 @@ export default function App() {
                   headerLeft:()=>(<Text style={{fontSize:30}, {fontWeight:"bold"}}>Beauty</Text>),
                   headerRight:()=>(<Icons />),
                   headerLeftContainerStyle:{marginLeft:20,
-                               backgroundColor:"violet",
+                               backgroundColor:"pink",
                                width:160,
                                paddingLeft:10,
                                  },
                   headerRightContainerStyle:{marginRight:20},
                   headerTitle:null,
-                  headerStyle:{height:120},
+                  headerStyle:{height:100},
                   
                   }}
             />

@@ -6,7 +6,7 @@ import { SafeAreaView } from 'react-native-safe-area-context'
 export class ArticleListScreen extends Component {
   List =[
     {
-      id:1,
+      id:10,
       shortText:"God is good all the time and all the time God is good.",
       image:require('../../assets/rep1.jpg' ), 
       profileimage:require('../../assets/f1.jpeg'),
@@ -14,59 +14,62 @@ export class ArticleListScreen extends Component {
        profilehr:"* 4 min read",
       LongText:"God fearing yong man with hight moral standard // Hardware Engineer // Networking Administrator // Software Developer" ,
     },
+
     {
-      id:2,
+      id:20,
       shortText:"Is all bout Jesus, Jesus is Lord.",
       image:require('../../assets/rep2.jpg' ), 
       profileimage:require('../../assets/f2.jpeg'),
       profileName:"Reppy", 
       profilehr:"* 6 min read",
-      LongText:"Occaecat ea do tempor et cupidatat veniam veniam eu.Quis anim elit  eiusmod deserunt sit consequat velit \n \nmagna esse labore ut. Dolor sit occaecat adipisicing ut nulla quis laborum velit nostrud amet ea laboris.Exercitation magna non \n \ncillum minim occaecat occaecat esse cupidatat cillu" ,
+      LongText:"God fearing yong man with hight moral standard // Hardware Engineer // Networking Administrator // Software Developer" ,
     },
+
     {
-      id:3,
+      id:30,
       shortText:"By grace you are save though Faith.",
       image:require('../../assets/rep3.jpg' ), 
       profileimage:require('../../assets/f3.jpeg'),
       profileName:"Asante", 
       profilehr:"* 8 min read",
-      LongText:"Occaecat ea do tempor et cupidatat veniam veniam eu.Quis anim elit eiusmod deserunt sit consequat velit \n \nmagna esse labore ut. Dolor sit occaecat adipisicing ut nulla quis laborum  velit nostrud amet ea laboris.Exercitation magna non \n \ncillum minim occaecat occaecat esse cupidatat cillu" ,
+      LongText:"God fearing yong man with hight moral standard // Hardware Engineer // Networking Administrator // Software Developer"  ,
     },
+
     {
-      id:4,
+      id:40,
       shortText:"Justification is by faith in Christ Jesus.",
       image:require('../../assets/rep4.jpg' ), 
       profileimage:require('../../assets/f4.jpeg'),
       profileName:"Purpose", 
       profilehr:"* 10 min read",
-      LongText:"Occaecat ea do tempor et cupidatat veniam veniam eu. Quis anim elit eiusmod deserunt sit consequat velit \n \nmagna esse labore ut. Dolor sit occaecat adipisicing ut nulla quis laborum velit nostrud amet ea laboris.Exercitation magna non \n \ncillum minim occaecat occaecat esse cupidatat cillu" ,
+      LongText:"God fearing yong man with hight moral standard // Hardware Engineer // Networking Administrator // Software Developer" ,
     },
     {
-      id:5,
+      id:50,
       shortText:"Salvaion is by Faith in Christ Jesus.",
       image:require('../../assets/rep5.jpg' ), 
       profileimage:require('../../assets/f5.jpeg'),
       profileName:"ReppyPurpose", 
       profilehr:"* 12 min read",
-      LongText:"Occaecat ea do tempor et cupidatat veniam veniam eu.Quis anim elit eiusmod deserunt sit consequat velit \n \nmagna esse labore ut. Dolor sit occaecat adipisicing ut nulla quis laborum velit nostrud amet ea laboris.Exercitation magna non \n \ncillum minim occaecat occaecat esse cupidatat cillu" ,
+      LongText:"God fearing yong man with hight moral standard // Hardware Engineer // Networking Administrator // Software Developer" ,
     },
     {
-      id:6,
+      id:60,
       shortText:"Jesus deid for the sin of the world.",
       image:require('../../assets/rep6.jpg' ), 
       profileimage:require('../../assets/f6.jpg'),
       profileName:"JosephReppy", 
       profilehr:"* 14 min read",
-      LongText:"Occaecat ea do tempor et cupidatat veniam veniam eu.Quis anim elit eiusmod deserunt sit consequat velit \n \nmagna esse labore ut. Dolor sit occaecat adipisicing ut nulla quis laborum velit nostrud amet ea laboris.Exercitation magna non \n \ncillum minim occaecat occaecat esse cupidatat cillu" ,
+      LongText:"God fearing yong man with hight moral standard // Hardware Engineer // Networking Administrator // Software Developer" ,
     },
     {
-      id:7,
+      id:70,
       shortText:"It is finished (John 19:30).",
       image:require('../../assets/rep7.jpg' ), 
       profileimage:require('../../assets/f7.jpg'),
       profileName:"JoeRep", 
       profilehr:"* 16 min read",
-      LongText:"Occaecat ea do tempor et cupidatat veniam veniam eu.Quis anim elit eiusmod deserunt sit consequat velit \n \nmagna esse labore ut. Dolor sit occaecat adipisicing ut nulla quis laborum velit nostrud amet ea laboris.Exercitation magna non \n \ncillum minim occaecat occaecat esse cupidatat cillu" ,
+      LongText:"God fearing yong man with hight moral standard // Hardware Engineer // Networking Administrator // Software Developer" ,
     },
   ]
   render() {

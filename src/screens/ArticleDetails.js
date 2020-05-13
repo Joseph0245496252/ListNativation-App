@@ -47,28 +47,7 @@ const styles = StyleSheet.create({
     backgroundColor:"white"
     
   },
-  ImgCont:{
-    flexDirection:"row"
-  },
-  ImgBorder:{
-    width:20,
-    height:120,
-    backgroundColor:"violet",
-    marginRight:10
-  },
-  ImageContainer: {
-    justifyContent: "center",
-    alignItems: "center",
-    flexDirection:"row"
-  },
-  image: {
-    width: 270,
-    height:300,
-    marginTop: 10,
-  },
-  TextContainer:{
-    marginHorizontal:25
-  },
+
   shortText: {
     fontWeight: "bold",
     marginTop: 10,
@@ -93,7 +72,30 @@ const styles = StyleSheet.create({
     marginRight: 10
   },
   profilehr:{
-    color:"#aaaaaa"
-  }
+    color:"blue"
+  },
+  ImgCont:{
+    flexDirection:"row"
+  },
+  ImgBorder:{
+    width:15,
+    height:130,
+    backgroundColor:"pink",
+    marginRight:10
+  },
+  ImageContainer: {
+    justifyContent: "center",
+    alignItems: "center",
+    flexDirection:"row"
+  },
+  image: {
+    width: 250,
+    height:270,
+    marginTop: 10,
+  },
+  TextContainer:{
+    marginHorizontal:25
+  },
+  
 
 })

@@ -55,9 +55,9 @@ const styles = StyleSheet.create({
     },
     ImageContainer: {
         borderTopWidth: 10,
-        borderTopColor: "violet",
+        borderTopColor: "pink",
         borderLeftWidth: 10,
-        borderLeftColor: "violet",
+        borderLeftColor: "pink",
         flex: 3,
         height: 70,
 
